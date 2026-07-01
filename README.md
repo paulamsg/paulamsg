@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Paula Meseguer
+# ¡Hola! 👋 Soy Paula Meseguer Martínez
 
 Graduada en Ingeniería Multimedia por la Universidad de Alicante, una formación que me ha proporcionado una base sólida en ingeniería de software, desarrollo de aplicaciones y resolución de problemas. A lo largo de mi trayectoria he desarrollado aplicaciones web full stack y me he especializado en desarrollo frontend y UX/UI.
 
